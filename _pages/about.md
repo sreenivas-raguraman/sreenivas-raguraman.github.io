@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreenivas-raguraman/'>Johns Hopkins University</a>. # Address. Contacts. Motto. Etc.
+subtitle: "Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreenivas-raguraman/'>Johns Hopkins University</a>."
 
 profile:
   align: right
