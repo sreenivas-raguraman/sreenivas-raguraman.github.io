@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate at <a href='#'>Johns Hopkins University</a>. # Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,11 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Materials Science and Engineering at Johns Hopkins University, specializing in the design, characterization, and testing of magnesium alloys for structural and biomedical applications. Under the guidance of Prof. Timothy P. Weihs, my research focuses on understanding the relationship between thermomechanical processing and its impact on the mechanical behavior, corrosion resistance, and degradation kinetics of Mg alloys through extensive mechanical testing, as well as immersion-based corrosion studies. By integrating these experimental techniques with advanced microstructural characterization, I aim to establish robust process-structure-property relationships that inform alloy development for diverse engineering applications, including biomedical implants, lightweight structural materials, and corrosion-resistant alloys.
+I am a Ph.D. candidate in Materials Science and Engineering at Johns Hopkins University, researching magnesium alloys for structural and biomedical applications. Under the guidance of Prof. Timothy P. Weihs, I focus on the effect of thermomechanical processing on mechanical behavior and corrosion resistance, integrating mechanical testing, immersion-based degradation studies, and microstructural analysis to develop process-structure-property relationships.
 
-My research spans internationally recognized institutions, including the National Institute of Standards and Technology (NIST) and the Pacific Northwest National Laboratory (PNNL), where I collaborate on high-resolution microstructural and chemical analyses. I employ advanced techniques such as Focused Ion Beam (FIB) and Atom Probe Tomography (APT) to investigate vacancy-induced solute clustering in Mg alloys—critical for understanding phase stability, mechanical performance, and environmental degradation. While my focus is on experimental materials science, I frequently collaborate with computational researchers who use machine learning and modeling approaches to complement experimental findings and accelerate alloy development.
+My work spans institutions like NIST and PNNL, where I use advanced characterization techniques such as Atom Probe Tomography (APT) and Focused Ion Beam (FIB) to study vacancy-induced solute clustering in Mg alloys. I often collaborate with computational researchers to integrate machine learning and modeling into alloy design.
 
-Prior to my Ph.D., I gained extensive international research experience through research internships at the Indian Institute of Science (IISc) and the National University of Singapore (NUS). At IISc, I worked under Prof. Satyam Suwas on titanium alloys, investigating their mechanical properties and microstructural evolution. At NUS, under Prof. Manoj Gupta, I explored the processing and characterization of ultralight magnesium alloys, contributing to advances in lightweight materials for structural applications. These experiences deepened my expertise in materials processing and deformation mechanisms across a range of alloy systems.
+Prior to my Ph.D., I conducted research at IISc and NUS, gaining experience in titanium and magnesium alloys, which deepened my understanding of materials processing and deformation. 
 
-Beyond research, I am dedicated to mentorship and professional service, having guided over 11 students and co-authored publications with mentees at various academic levels. As an active member of The Minerals, Metals & Materials Society (TMS), I contribute to discussions on metallurgy, biomaterials, mechanical behavior, and corrosion science. My interdisciplinary experience across academia, government labs, and industry positions me to tackle complex materials challenges in structural applications, corrosion-resistant materials, and extreme environment materials.
+Beyond research, I’ve mentored over 11 students and actively contribute to TMS communities on biomaterials, corrosion, and mechanical behavior. My interdisciplinary background across academia, national labs, and industry equips me to address complex materials challenges in lightweight and corrosion-resistant metals.
+
 
