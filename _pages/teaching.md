@@ -2,11 +2,31 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have assisted with as a Graduate Teaching Assistant at Johns Hopkins University.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Experience
 
-Organize your courses by years, topics, or universities, however you like!
+### Graduate Teaching Assistant  
+**Thermodynamics/Materials (Undergraduate)**  
+*Johns Hopkins University — Prof. [James B. Spicer](https://engineering.jhu.edu/materials/faculty/james-b-spicer/)*  
+*Baltimore, MD | Jan 2023 – May 2023*
+
+- Assisted with homework grading, office hours, and exam proctoring.
+- Supported foundational concepts in thermodynamics for undergraduate materials science majors.
+
+---
+
+### Graduate Teaching Assistant  
+**Thermodynamics of Materials (Graduate)**  
+*Johns Hopkins University — Prof. [Peter Searson](https://engineering.jhu.edu/materials/faculty/peter-searson/)*  
+*Baltimore, MD | Aug 2022 – Dec 2022*
+
+- Led discussion sessions and assisted graduate students with problem-solving techniques.
+- Focused on advanced thermodynamic principles in materials science and engineering.
+
+---
+
+Feel free to reach out if you'd like to see sample materials or topics covered during these courses.
