@@ -22,17 +22,23 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Materials Science and Engineering at Johns Hopkins University, researching magnesium alloys for structural and biomedical applications. Under the guidance of Prof. Timothy P. Weihs, I focus on the effect of thermomechanical processing on mechanical behavior and corrosion resistance, integrating mechanical testing, immersion-based degradation studies, and microstructural analysis to develop process-structure-property relationships.
+I am **Sreenivas Raguraman**, a Ph.D. candidate in **Materials Science and Engineering** at **Johns Hopkins University**.
 
-My work spans institutions like NIST and PNNL, where I use advanced characterization techniques such as Atom Probe Tomography (APT) and Focused Ion Beam (FIB) to study vacancy-induced solute clustering in Mg alloys. I often collaborate with computational researchers to integrate machine learning and modeling into alloy design.
+My research focuses on the development and characterization of **biodegradable magnesium alloys** for biomedical and structural applications. I specialize in **thermomechanical processing**, **advanced microstructural characterization** (SEM, EBSD, APT, XRD), and **corrosion and mechanical testing** to optimize process-structure-property relationships in metals. I also integrate **machine learning** approaches to accelerate experimental design and materials discovery.
 
-Prior to my Ph.D., I conducted research at IISc and NUS, gaining experience in titanium and magnesium alloys, which deepened my understanding of materials processing and deformation. 
+Through collaborations with national laboratories such as **PNNL** and **NIST**, I study **vacancy-induced solute clustering** and **degradation kinetics** in magnesium alloys. My work combines fundamental understanding with translational applications, aiming to design lightweight, corrosion-resistant metals for real-world use.
 
-Beyond research, I’ve mentored over 11 students and actively contribute to TMS communities on biomaterials, corrosion, and mechanical behavior. My interdisciplinary background across academia, national labs, and industry equips me to address complex materials challenges in lightweight and corrosion-resistant metals.
+Beyond research, I am passionate about **mentoring students** and **contributing to the scientific community**. I have mentored over **10 undergraduate and master's students**, served as a **Teaching Assistant** for both undergraduate and graduate thermodynamics courses, and actively contribute to professional societies like **TMS**, including organizing symposia and reviewing for leading journals.
+
+Prior to my Ph.D., I gained research experience at the **Indian Institute of Science (IISc)** and the **National University of Singapore (NUS)**, where I worked on titanium and magnesium alloy processing and deformation.
+
+My interdisciplinary background across academia, national laboratories, and industry collaborations equips me to address complex challenges in materials development for structural and biomedical applications.
+
+---
 
 
