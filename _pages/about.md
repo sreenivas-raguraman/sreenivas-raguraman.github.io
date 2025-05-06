@@ -7,38 +7,34 @@ subtitle: "Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreeniv
 profile:
   align: right
   image: 1681870258319.jpeg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    #<p>101B Maryland Hall</p>
-    #<p>3400 N Charles St</p>
-    #<p>Baltimore, MD USA 21218</p>
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-I am **Sreenivas Raguraman**, a Ph.D. candidate in **Materials Science and Engineering** at **Johns Hopkins University**.
+I’m a Ph.D. candidate in **Materials Science and Engineering** at **Johns Hopkins University**, advised by <a href='https://engineering.jhu.edu/faculty/timothy-weihs/'>Prof. Timothy P. Weihs</a>. My research investigates **processing–structure–property–performance relationships** in metallic systems for both **structural** and **biomedical** applications.
 
-My research focuses on the development and characterization of **biodegradable magnesium alloys** for biomedical and structural applications. I specialize in **thermomechanical processing**, **advanced microstructural characterization** (SEM, EBSD, APT, XRD), and **corrosion and mechanical testing** to optimize process-structure-property relationships in metals. I also integrate **machine learning** approaches to accelerate experimental design and materials discovery.
+At the core of my work is an experimental approach to **materials processing**, **microstructural engineering**, and **mechanism-driven design**. I specialize in techniques such as **severe plastic deformation** and **thermomechanical treatments** to tailor grain structure, phase stability, and defect populations. These efforts are supported by advanced characterization (APT, PAS, SEM, EBSD, XRD) and extended to evaluations of **mechanical behavior** and **corrosion performance**.
 
-Through collaborations with national laboratories such as **PNNL** and **NIST**, I study **vacancy-induced solute clustering** and **degradation kinetics** in magnesium alloys. My work combines fundamental understanding with translational applications, aiming to design lightweight, corrosion-resistant metals for real-world use.
+I collaborate with experts in **machine learning** and **computational materials science** to accelerate alloy discovery and uncover hidden processing–structure–property relationships. My work aims to bridge **fundamental understanding** with **application-driven performance targets**—whether in **biodegradable implants**, **lightweight structural alloys**, or **next-generation protective materials**.
 
-Beyond research, I am passionate about **mentoring students** and **contributing to the scientific community**. I have mentored over **10 undergraduate and master's students**, served as a **Teaching Assistant** for both undergraduate and graduate thermodynamics courses, and actively contribute to professional societies like **TMS**, including organizing symposia and reviewing for leading journals.
+My research spans academia, national laboratories (PNNL, NIST), and industry (Fort Wayne Metals), resulting in over **8 peer-reviewed publications**, **14+ technical presentations**, and leadership on federally funded projects, including an **NSF grant on vacancy engineering**. I have been recognized with the **Rodbell Fellowship**, multiple **TMS awards**, and invited roles such as **Discussion Leader for the GRS Physical Metallurgy** and **Symposium Organizer** for **Vacancy Engineering for Metals and Alloys** at **TMS 2026**.
 
-Prior to my Ph.D., I gained research experience at the **Indian Institute of Science (IISc)** and the **National University of Singapore (NUS)**, where I worked on titanium and magnesium alloy processing and deformation.
+Beyond the lab, I’m committed to **mentorship**, **scientific service**, and **community leadership**. I’ve mentored over **11 undergraduate, master's, and high school students**, many of whom are co-authors on my publications. I serve as **Vice President of the Materials Graduate Society**, organize national symposia (TMS, MACH, GRC/GRS), contribute as a **Co-Guest Editor for JOM**, and review for more than **four journals**.
 
-My interdisciplinary background across academia, national laboratories, and industry collaborations equips me to address complex challenges in materials development for structural and biomedical applications.
+Before my Ph.D., I conducted research at the **Indian Institute of Science (IISc)** and the **National University of Singapore (NUS)** on microstructure–processing relationships in Mg and Ti alloys.
 
 ---
 
-
+I envision a career at the intersection of **materials processing**, **advanced characterization**, and **translational performance metrics**, with the versatility to work across biomedical, structural, and defense-relevant materials systems. My long-term goal is to lead a research group that builds materials from first principles to function, merging curiosity-driven discovery with real-world impact.
