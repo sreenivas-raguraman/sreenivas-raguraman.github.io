@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # leave blank to use full name
+title: blank
 first_name: Sreenivas
-middle_name: 
+middle_name:
 last_name: Raguraman
 contact_note: >
   Feel free to reach out via email for research inquiries or collaboration opportunities.
@@ -13,13 +13,12 @@ description: >
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: materials science, biodegradable alloys, magnesium alloys, corrosion, atom probe tomography, experimental metallurgy
 lang: en
 icon: ⚛️
 
 url: https://sreenivas-raguraman.github.io
-baseurl: # leave blank
+baseurl:
 last_updated: false
 impressum_path:
 back_to_top: true
@@ -28,8 +27,8 @@ back_to_top: true
 # Theme
 # -----------------------------------------------------------------------------
 
-repo_theme_light:
-repo_theme_dark:
+repo_theme_light: default
+repo_theme_dark: dark
 repo_trophies:
   enabled: false
 
@@ -49,7 +48,6 @@ search_enabled: true
 socials_in_search: false
 posts_in_search: false
 bib_search: true
-
 max_width: 930px
 
 # -----------------------------------------------------------------------------
@@ -75,23 +73,23 @@ bing_site_verification:
 # Blog (Disabled)
 # -----------------------------------------------------------------------------
 
-#blog_name:
-#blog_description:
-#permalink:
-#lsi: false
+# blog_name:
+# blog_description:
+# permalink:
+# lsi: false
 
-#pagination:
-#  enabled: false
+# pagination:
+#   enabled: false
 
-#related_blog_posts:
-#  enabled: false
+# related_blog_posts:
+#   enabled: false
 
-#giscus:
-# (commented out)
+# giscus:
+#   (leave blank or remove)
 
-#disqus_shortname:
+# disqus_shortname:
 
-#external_sources:
+# external_sources:
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -184,13 +182,6 @@ enable_medium_zoom: true
 enable_progressbar: true
 enable_navbar_social: true
 enable_video_embedding: false
-
-# -----------------------------------------------------------------------------
-# Third Party Libraries
-# -----------------------------------------------------------------------------
-
-third_party_libraries: {}
-
 
 # -----------------------------------------------------------------------------
 # Responsive Images
