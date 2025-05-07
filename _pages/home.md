@@ -5,7 +5,7 @@ permalink: /
 subtitle: "Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreenivas-raguraman/'>Johns Hopkins University</a>."
 
 profile:
-  align: right
+  align: left
   image: 1681870258319.jpeg
   image_circular: false
 
@@ -31,5 +31,12 @@ I’ve built cross-disciplinary collaborations with **machine learning researche
 
 In the long term, I aim to lead a research group that builds functional materials **from principles to performance** — across **biomedical**, **aerospace**, and **energy-relevant** applications.
 
-[Download CV](assets/files/Sreenivas_PhD_CV.pdf)
+<div style="margin-top: 1.5em;">
+  <a href="https://www.dropbox.com/scl/fo/opzn02fgyyaexllhry4co/AJTkTobCrdFDnp7KKVAs0LA?rlkey=7xby4khfmbcsoo71zlc7v8i8f&dl=1" 
+     class="btn btn--primary" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     📄 Download CV
+  </a>
+</div>
 
