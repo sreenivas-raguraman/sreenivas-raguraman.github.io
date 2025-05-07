@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 nav: true
 nav_order: 2
 ---
-
-# About Me
 
 I am a Ph.D. candidate in **Materials Science and Engineering** at **Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). My research bridges **materials processing**, **microstructural and defect engineering**, and **application-driven property optimization** across **biomedical**, **structural**, and **reactive material systems**.
 
@@ -31,11 +29,11 @@ While my core focus is on **biodegradable Mg alloys** for medical applications, 
 - **Rodbell Fellow**, multiple **TMS awards**, **NSF-funded project lead**  
 - **Symposium Organizer** – TMS 2026: Vacancy Engineering in Metals and Alloys  
 - **Vice President**, Materials Graduate Society @ JHU  
-- **Co-Guest Editor**, _Journal of Materials (JOM)_  
-- **Advisor-in-Training**, TMS Magnesium Committee
+- **Co-Guest Editor**, _(JOM)_  
+- **Editorial Advisor-in-Training**, TMS Magnesium Committee
 
 ---
 
 <div style="margin-top: 1.5em;">
-  <a href="{{ '/assets/files/Sreenivas_PhD_CV.pdf' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">📄 Download CV</a>
+  <a href="{{ 'file: Sreenivas_PhD_CV' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">📄 Download CV</a>
 </div>
