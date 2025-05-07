@@ -34,6 +34,5 @@ While my core focus is on **biodegradable Mg alloys** for medical applications, 
 
 ---
 
-<div style="margin-top: 1.5em;">
-  <a href="{{ 'file: Sreenivas_PhD_CV' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">📄 Download CV</a>
-</div>
+[Download CV](assets/files/Sreenivas_PhD_CV.pdf)
+
