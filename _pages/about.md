@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: about me
 permalink: /about/
 nav: true
 nav_order: 2
@@ -34,5 +34,13 @@ While my core focus is on **biodegradable Mg alloys** for medical applications, 
 
 ---
 
-[Download CV](assets/files/Sreenivas_PhD_CV.pdf)
+<div style="margin-top: 1.5em;">
+  <a href="https://www.dropbox.com/scl/fo/opzn02fgyyaexllhry4co/AJTkTobCrdFDnp7KKVAs0LA?rlkey=7xby4khfmbcsoo71zlc7v8i8f&dl=1" 
+     class="btn btn--primary" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     📄 Download CV
+  </a>
+</div>
+
 
