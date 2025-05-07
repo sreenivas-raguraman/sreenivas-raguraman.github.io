@@ -1,32 +1,40 @@
 ---
-layout: about
-title: about
-permalink: /
-subtitle: "Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreenivas-raguraman/'>Johns Hopkins University</a>."
-
-profile:
-  align: right
-  image: 1681870258319.jpeg
-  image_circular: false
-
-selected_papers: true
-social: true
-
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
-
-latest_posts:
-  enabled: false
-  scrollable: true
-  limit: 3
+layout: page
+title: About
+permalink: /about/
+nav: true
 ---
 
-I’m a Ph.D. candidate in **Materials Science and Engineering** at **Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). My research focuses on processing–structure–property–performance relationships in metals for **biomedical**, **structural**, and **defense** applications.
+# About Me
 
-I use advanced techniques in **materials processing** (severe plastic deformation, thermomechanical treatments) and **microstructural engineering** to design alloys with tailored performance. My work is supported by high-resolution characterization tools (APT, PAS, SEM, EBSD, XRD) and is extended through collaborations in **machine learning** and **computational materials science**.
+I am a Ph.D. candidate in **Materials Science and Engineering** at **Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). My research bridges **materials processing**, **microstructural and defect engineering**, and **application-driven property optimization** across **biomedical**, **structural**, and **reactive material systems**.
 
-I’ve worked across academia, national labs (PNNL, NIST), and industry (Fort Wayne Metals). My contributions have been recognized with **TMS awards**, the **Rodbell Fellowship**, and invitations to organize technical symposia and lead community efforts.
+My expertise lies in tailoring **grain structure**, **precipitate evolution**, and **defect populations**—including **vacancies** and **dislocations**—to control and enhance **mechanical behavior**, **corrosion resistance**, and **toxicity profiles**. I leverage advanced processing methods such as **severe plastic deformation**, **annealing**, and **cryo-quenching**, supported by multiscale characterization (APT, PAS, SEM, EBSD, XRD).
 
-My long-term vision is to build a research group that bridges **curiosity-driven discovery** with **application-focused performance** — creating materials that function from **first principles to real-world deployment**.
+My collaborative ecosystem includes:
+
+- **Machine Learning** experts: for data-driven processing optimization and alloy discovery  
+- **Computational Thermodynamics** researchers: to understand phase evolution and vacancy behavior  
+- **Biomedical engineers**: to interpret in vivo responses and material–tissue interactions  
+- **National laboratories**: for atomistic analysis and property verification  
+- **Industry partners**: for real-world constraints and rapid feedback
+
+While my core focus is on **biodegradable Mg alloys** for medical applications, I also contribute to high-performance **Al-based reactive materials** for ignition systems—demonstrating versatility across functional materials. My translational mindset is supported by experience working across academia, industry (e.g., Fort Wayne Metals), and national labs (PNNL, NIST), enabling me to push **performance–cost–speed tradeoffs** at scale.
+
+---
+
+## Quick Facts
+
+- **8+ peer-reviewed publications**  
+- **14+ national/international presentations**  
+- **Rodbell Fellow**, multiple **TMS awards**, **NSF-funded project lead**  
+- **Symposium Organizer** – TMS 2026: Vacancy Engineering in Metals and Alloys  
+- **Vice President**, Materials Graduate Society @ JHU  
+- **Co-Guest Editor**, _Journal of Materials (JOM)_  
+- **Advisor-in-Training**, TMS Magnesium Committee
+
+---
+
+<div style="margin-top: 1.5em;">
+  <a href="{{ '/assets/files/Sreenivas_PhD_CV.pdf' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">📄 Download CV</a>
+</div>
