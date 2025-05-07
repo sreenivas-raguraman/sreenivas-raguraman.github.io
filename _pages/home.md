@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-I’m a Ph.D. candidate in **Materials Science & Engineering** at **Johns Hopkins University**, where I engineer **microstructures and defect landscapes** to optimize **mechanical performance**, **corrosion resistance**, and **biocompatibility**.  
+I’m a Ph.D. candidate in **Materials Science & Engineering** at **Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/), where I engineer **microstructures and defect landscapes** to optimize **mechanical performance**, **corrosion resistance**, and **biocompatibility**.  
 
 My research integrates **materials processing**, **thermomechanical design**, and **advanced characterization** techniques (APT, PAS, SEM, XRD, TEM), enabling materials-by-design approaches tailored for both **biomedical** and **structural** systems. Whether it’s improving implant reliability or enabling high-strength alloys for extreme environments, my goal is to bridge **fundamental mechanisms** with **application-driven performance metrics**.
 
