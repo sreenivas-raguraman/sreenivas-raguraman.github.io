@@ -2,7 +2,7 @@
 layout: page
 title: submenus
 nav: true
-nav_order: 10
+nav_order: 9
 dropdown: true
  children:
   - title: news
@@ -10,5 +10,4 @@ dropdown: true
   - divider
   - title: gallery
     permalink: /gallery/
-
   ---
