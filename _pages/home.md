@@ -31,6 +31,5 @@ I’ve built cross-disciplinary collaborations with **machine learning researche
 
 In the long term, I aim to lead a research group that builds functional materials **from principles to performance** — across **biomedical**, **aerospace**, and **energy-relevant** applications.
 
-<div style="margin-top: 1.5em;">
-  <a href="{{ 'file: Sreenivas_PhD_CV' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">📄 Download CV</a>
-</div>
+[Download CV](assets/files/Sreenivas_PhD_CV.pdf)
+
