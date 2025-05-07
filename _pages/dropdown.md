@@ -7,7 +7,4 @@ dropdown: true
  children:
   - title: gallery
     permalink: /gallery/
-  #- title: divider
-  #- title: blog
-  #  permalink: /blog/
----
+  ---
