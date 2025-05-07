@@ -29,7 +29,7 @@ My research integrates **materials processing**, **thermomechanical design**, an
 
 I’ve built cross-disciplinary collaborations with **machine learning researchers** (for predictive alloy design), **computational scientists** (to probe thermodynamics and kinetics), and **in vivo testing teams** (to understand material–biological interactions). My experience spans **academia**, **industry**, and **national labs**, empowering me to translate ideas into impact — swiftly and cost-effectively.
 
-In the long term, I aim to lead a research group that builds functional materials **from principles to performance** — across **biomedical**, **aerospace**, and **energy-relevant** applications.
+In the long term, I aim to be a Professor and lead a research group that builds functional materials **from principles to performance** — across **biomedical**, **aerospace**, and **energy-relevant** applications.
 
 <div style="margin-top: 1.5em;">
   <a href="https://www.dropbox.com/scl/fo/opzn02fgyyaexllhry4co/AJTkTobCrdFDnp7KKVAs0LA?rlkey=7xby4khfmbcsoo71zlc7v8i8f&dl=1" 
@@ -39,4 +39,5 @@ In the long term, I aim to lead a research group that builds functional material
      📄 Download CV
   </a>
 </div>
+
 
