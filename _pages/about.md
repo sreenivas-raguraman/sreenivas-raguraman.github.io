@@ -6,31 +6,42 @@ nav: true
 nav_order: 2
 ---
 
-I am a Ph.D. candidate in **Materials Science and Engineering** at **Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). My research bridges **materials processing**, **microstructural and defect engineering**, and **application-driven property optimization** across **biomedical**, **structural**, and **reactive material systems**.
+I am a **Ph.D. candidate in Materials Science and Engineering at Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). My research is driven by an interdisciplinary approach to **engineering microstructure and defects to optimize materials for application-specific performance**, spanning biomedical, structural, and energetic systems.
 
-My expertise lies in tailoring **grain structure**, **precipitate evolution**, and **defect populations**—including **vacancies** and **dislocations**—to control and enhance **mechanical behavior**, **corrosion resistance**, and **toxicity profiles**. I leverage advanced processing methods such as **severe plastic deformation**, **annealing**, and **cryo-quenching**, supported by multiscale characterization (APT, PAS, SEM, EBSD, XRD).
+### Research Vision
+
+I develop materials solutions by tailoring **grain size, precipitate morphology, and defect populations (e.g., vacancies, dislocations)** through **thermomechanical processing**, **annealing**, **severe plastic deformation**, and **cryo-quenching**. These approaches allow me to modulate and enhance **mechanical strength**, **biocorrosion resistance**, and **toxicity**, with an emphasis on **scalability**, **cost-efficiency**, and **processing speed**.
+
+I have built an integrative framework that connects:
+
+- **Fundamental process–structure–property correlations**  
+- **Advanced multiscale characterization** (APT, PAS, XRD, SEM, EBSD, µCT)  
+- **Computational modeling & thermodynamics**  
+- **In vivo degradation and tissue response studies**  
+- **Machine learning-guided optimization**  
+
+This translational mindset enables my work to go beyond traditional "biometal" boundaries. I have led projects on **vacancy-induced solute clustering**, **ignition mechanisms in Al-based reactive materials**, and **degradation modeling of Mg alloys**, while contributing to collaborative research funded by **NSF**, **NIH**, and **DOD-aligned agencies**, though without explicitly stating such affiliations.
+
+### Institutional and Industrial Reach
 
 My collaborative ecosystem includes:
+- **National Labs**: Pacific Northwest National Laboratory (PNNL), National Institute of Standards and Technology (NIST)  
+- **Industry**: Fort Wayne Metals, focused on deployable biomedical materials  
+- **Academia**: Strong network across Johns Hopkins (MSE, ChemBE, AI-X Foundry), Virginia Tech, University of Utah, and Monash University  
 
-- **Machine Learning** experts: for data-driven processing optimization and alloy discovery  
-- **Computational Thermodynamics** researchers: to understand phase evolution and vacancy behavior  
-- **Biomedical engineers**: to interpret in vivo responses and material–tissue interactions  
-- **National laboratories**: for atomistic analysis and property verification  
-- **Industry partners**: for real-world constraints and rapid feedback
-
-While my core focus is on **biodegradable Mg alloys** for medical applications, I also contribute to high-performance **Al-based reactive materials** for ignition systems—demonstrating versatility across functional materials. My translational mindset is supported by experience working across academia, industry (e.g., Fort Wayne Metals), and national labs (PNNL, NIST), enabling me to push **performance–cost–speed tradeoffs** at scale.
+These interactions allow me to work at the interface of **application-driven material science**, meeting real-world constraints while rapidly iterating on ideas from the lab bench to the design floor.
 
 ---
 
-## Quick Facts
+## Quick Snapshot
 
-- **8+ peer-reviewed publications**  
-- **14+ national/international presentations**  
-- **Rodbell Fellow**, multiple **TMS awards**, **NSF-funded project lead**  
-- **Symposium Organizer** – TMS 2026: Vacancy Engineering in Metals and Alloys  
-- **Vice President**, Materials Graduate Society @ JHU  
-- **Co-Guest Editor**, _(JOM)_  
-- **Editorial Advisor-in-Training**, TMS Magnesium Committee
+- 📌 **Vacancy Engineering Symposium Lead Organizer**, TMS 2026  
+- 🎙️ **Discussion Leader**, Gordon Research Seminar 2025  
+- 🏅 **Rodbell Fellow** | Multiple **TMS Travel Grants**  
+- 📚 **14+ national/international presentations** | **8+ peer-reviewed publications**  
+- 🤝 **Mentored 10+ undergraduates and high school researchers**  
+- ✍️ **Co-Guest Editor** for JOM Special Issue on Mg alloys  
+- 🧪 **Editorial Advisor-in-Training**, TMS Magnesium Committee  
 
 ---
 
@@ -42,5 +53,3 @@ While my core focus is on **biodegradable Mg alloys** for medical applications, 
      📄 Download CV
   </a>
 </div>
-
-
