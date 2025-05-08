@@ -31,7 +31,7 @@ I’ve built cross-disciplinary collaborations with **machine learning researche
 
 In the long term, I aim to be a Professor and lead a research group that builds functional materials **from principles to performance** — across **biomedical**, **aerospace**, and **energy-relevant** applications.
 
-<div style="margin-top: 1.5em;">
+<div style="margin-top: 1.5em; text-align: right;">
   <a href="https://www.dropbox.com/scl/fo/opzn02fgyyaexllhry4co/AJTkTobCrdFDnp7KKVAs0LA?rlkey=7xby4khfmbcsoo71zlc7v8i8f&dl=1" 
      class="btn btn--primary" 
      target="_blank" 
