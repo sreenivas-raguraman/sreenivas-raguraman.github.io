@@ -1,57 +1,55 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 nav: true
 nav_order: 2
 ---
 
-I am a **Ph.D. candidate in Materials Science and Engineering at Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). My research is driven by an interdisciplinary approach to **engineering microstructure and defects** to optimize materials for **application-specific performance**, spanning **biomedical**, **structural**, and **energetic material systems**.
-
-My core scientific philosophy centers around designing materials that are **cost-effective**, **rapid to process**, and **tailored for performance**. I achieve this by tuning **grain structure**, **precipitate evolution**, and **defect populations** (e.g., vacancies, dislocations) through **thermomechanical processing**, **annealing**, **severe plastic deformation**, and **cryo-quenching**. These strategies allow precise control over **mechanical behavior**, **corrosion resistance**, and **toxicity profiles**.
+I am a **Ph.D. candidate in Materials Science and Engineering at Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). My research is rooted in experimental physical metallurgy with a strong drive to connect **processing, structure, and property relationships** across **lightweight structural**, **biomedical**, and **reactive materials**.
 
 ---
 
-### 🔬 Research Vision
+### 🔬 Research Philosophy
 
-I develop integrative solutions to pressing materials challenges by combining:
+My scientific approach centers on **engineering microstructure and defects**—from **grain boundaries** to **vacancy clusters**—to realize materials that are **mechanically robust**, **biocorrosion-resistant**, and **biocompatible**. I use techniques such as **severe plastic deformation** and **thermomechanical processing** to optimize material properties through **rapid**, **cost-effective**, and **scalable** processing strategies.
 
-- **Process–Structure–Property Engineering** — from atomic-scale defects to mesoscale architecture  
-- **Advanced multiscale characterization** — APT, PAS, SEM, EBSD, µCT, XRD  
-- **Data-driven methods** — machine learning for processing and alloy optimization  
-- **Computational thermodynamics** — modeling vacancy behavior and phase evolution  
-- **In vivo experimentation** — understanding biological interactions and degradation kinetics  
+My dissertation focuses on **biodegradable Mg alloys**, but I’ve also led/co-authored work on:
+- Vacancy-induced solute clustering in Mg  
+- Al-based reactive materials for enhanced ignition  
+- In vivo aluminum toxicity mitigation  
+- ML-guided alloy and process design  
 
-Although my dissertation centers on **biodegradable magnesium alloys** for medical implants, my scope extends to **Al-based reactive materials**, **vacancy-engineered systems**, and **multiphase structural alloys**. I thrive on solving **translational materials problems**, balancing performance and manufacturability, and drawing insights from cross-disciplinary collaboration.
+Learn more about my projects in [Research →](/research/).
 
 ---
 
-### 🌐 Institutional and Industrial Reach
+## 🌐 Collaborations & Impact
 
-My research is deeply collaborative, involving:
+I thrive at the interface of academia, industry, and national labs:
 
-- **National Labs**: PNNL (APT, PAS) and NIST (alloy development, microscopy)  
+- **National Labs**: PNNL (APT, PAS), NIST (alloy development, microscopy)  
 - **Industry**: Fort Wayne Metals (biomedical wire systems)  
-- **Academic Networks**: Virginia Tech, University of Utah, Monash University, and the AI-X Foundry at JHU  
+- **Academic Networks**: Virginia Tech, University of Utah, Monash University, AI-X Foundry (JHU), Washington State University Pullman  
 
-These collaborations enable me to work across boundaries—bringing **design-stage science into real-world application spaces**, while adapting rapidly to experimental feedback and deployment constraints.
+This ecosystem accelerates my goal of turning bench-scale science into real-world solutions. Details on my team and mentorship efforts are in [Mentorship →](/mentorship/) and [Service →](/services/).
 
 ---
 
 ## 🔍 Quick Snapshot
 
-- 🎯 **Lead Organizer**, TMS 2026 Symposium on *Vacancy Engineering in Metals and Alloys*  
-- 🎙️ **Discussion Leader**, Gordon Research Seminar (GRS) Physical Metallurgy 2025  
-- 🧪 **Editorial Roles** – *Co-Guest Editor* (JOM), *Advisor-in-Training* (TMS Magnesium Committee)  
-- 🧪 **Peer Reviewer** - *Journal of Alloys and Compounds*, *JOM*, *Anti-Corrosion Methods*, *Materials Characterization*
-- 🏅 **Rodbell Fellow**, multiple **TMS Travel Awardee**, **JHU GSA Research Fellowship**  
-- 📚 **8+ peer-reviewed papers**, **14+ national/international presentations**  
-- 🤝 **Mentored 11+ undergraduate and high school researchers**  
-- 🧠 Co-authored interdisciplinary work on **combustion materials**, **bio-corrosion modeling**, and **vacancy–solute interactions**
+- 🎯 **Lead Student Organizer**, TMS 2026 Symposium on _Vacancy Engineering in Metals and Alloys_  
+- 🎙️ **Discussion Leader**, GRS Physical Metallurgy 2025  
+- ✍️ **Co-Guest Editor**, JOM Special Issue on Mg Alloys  
+- 📰 **Editorial Advisor-in-Training**, TMS Magnesium Committee  
+- 🏅 **Rodbell Fellow**, multiple TMS travel awards, JHU Graduate Research fellowship  
+- 📚 **8+ peer-reviewed publications**, **14+ presentations**  
+- 🤝 **Mentored 11+ undergrad & high-school researchers**  
+- 🔬 Co-authored interdisciplinary studies in **combustion materials**, **bio-corrosion modeling**, and **vacancy–solute interactions**
 
 ---
 
-<div style="margin-top: 1.5em;">
+<div style="margin-top: 1.5em; text-align: right;">
   <a href="https://www.dropbox.com/scl/fo/opzn02fgyyaexllhry4co/AJTkTobCrdFDnp7KKVAs0LA?rlkey=7xby4khfmbcsoo71zlc7v8i8f&dl=1" 
      class="btn btn--primary" 
      target="_blank" 
@@ -59,3 +57,16 @@ These collaborations enable me to work across boundaries—bringing **design-sta
      📄 Download CV
   </a>
 </div>
+
+---
+
+## 🎶 Beyond the Lab
+
+- 🎼 Trained in Indian classical music  
+- 🏏 Play cricket & 🏓 table tennis  
+- 📺 Avid fan of crime & investigative TV shows  
+- 🎧 Podcasts on geopolitics, history, and sports highlights  
+
+---
+
+
