@@ -4,10 +4,10 @@ title: submenus
 nav: true
 nav_order: 9
 dropdown: true
- children:
+children:
   - title: news
     permalink: /news/
-  - divider
+  - title: divider
   - title: gallery
     permalink: /gallery/
-  ---
+---
