@@ -60,7 +60,7 @@ Below are a few of the mentees I’ve worked with:
 <div class="mentee-grid">
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Tram.jpg" alt="Tram Nguyen">
+  <img src="/assets/img/Tram.jpg" alt="Tram Nguyen">
   <h4>Tram Nguyen *</h4>
   <p>M.S. Materials Science & Engineering</p>
   <p><strong>Now:</strong> Ph.D. Candidate, JHU (Grayson Lab)</p>
@@ -68,7 +68,7 @@ Below are a few of the mentees I’ve worked with:
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Diana.jpg" alt="Diana Bershadsky">
+  <img src="/assets/img/Diana.jpg" alt="Diana Bershadsky">
   <h4>Diana Bershadsky *</h4>
   <p>M.S. Mechanical Engineering</p>
   <p><strong>Now:</strong> Shift Supervisor, Puratos</p>
@@ -84,7 +84,7 @@ Below are a few of the mentees I’ve worked with:
 <div class="mentee-grid">
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Andrew.jpg" alt="Andrew Kim">
+  <img src="/assets/img/Andrew.jpg" alt="Andrew Kim">
   <h4>Andrew Kim *</h4>
   <p>B.S. Materials Sci. & Eng.</p>
   <p><strong>Awards:</strong> PURA, EPFL, JHU APL</p>
@@ -92,7 +92,7 @@ Below are a few of the mentees I’ve worked with:
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Veronica.jpg" alt="Veronica Ivanovskaya">
+  <img src="/assets/img/Veronica.jpg" alt="Veronica Ivanovskaya">
   <h4>Veronica Ivanovskaya *</h4>
   <p>B.S. Materials Sci. & Eng.</p>
   <p><strong>Award:</strong> SURF Fellow at NIST</p>
@@ -100,14 +100,14 @@ Below are a few of the mentees I’ve worked with:
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Camryn.jpg" alt="Camryn Byrum">
+  <img src="/assets/img/Camryn.jpg" alt="Camryn Byrum">
   <h4>Camryn Byrum</h4>
   <p>B.S. Biomedical Engineering</p>
   <a href="https://www.linkedin.com/in/camryn-byrum-b585612261/" target="_blank">LinkedIn</a>
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Tunde.jpg" alt="Tunde Ayodeji">
+  <img src="/assets/img/Tunde.jpg" alt="Tunde Ayodeji">
   <h4>Tunde Ayodeji *</h4>
   <p>B.S. Mechanical Engineering</p>
   <p><strong>Award:</strong> SERIUS Fellow, NUS</p>
@@ -115,14 +115,14 @@ Below are a few of the mentees I’ve worked with:
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Ryan.jpg" alt="Ryan McGovern">
+  <img src="/assets/img/Ryan.jpg" alt="Ryan McGovern">
   <h4>Ryan McGovern *</h4>
   <p>B.S. Biomedical Engineering</p>
   <a href="https://www.linkedin.com/in/rmmcgovern/" target="_blank">LinkedIn</a>
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Rida.png" alt="Rida Chowdhury">
+  <img src="/assets/img/Rida.png" alt="Rida Chowdhury">
   <h4>Rida Chowdhury *</h4>
   <p>B.S. Biomedical Engineering</p>
   <p><strong>Now:</strong> Quality Engineer, Medtronic</p>
@@ -130,14 +130,14 @@ Below are a few of the mentees I’ve worked with:
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Makayla.jpg" alt="Makayla Mitchell">
+  <img src="/assets/img/Makayla.jpg" alt="Makayla Mitchell">
   <h4>Makayla Mitchell</h4>
   <p>B.S. Chemical & Biomolecular Eng.</p>
   <a href="https://www.linkedin.com/in/makayla-mitchell-135b9320a/" target="_blank">LinkedIn</a>
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Yi.jpg" alt="Yi Shen">
+  <img src="/assets/img/Yi.jpg" alt="Yi Shen">
   <h4>Yi Shen</h4>
   <p>B.S. Biomedical Engineering</p>
   <a href="https://www.linkedin.com/in/yi-shen-012397265/" target="_blank">LinkedIn</a>
@@ -152,7 +152,7 @@ Below are a few of the mentees I’ve worked with:
 <div class="mentee-grid">
 
 <div class="mentee-card">
-  <img src="/assets/img/mentorship/Karthik.png" alt="Karthik Muthukumar">
+  <img src="/assets/img/Karthik.png" alt="Karthik Muthukumar">
   <h4>Karthik Muthukumar</h4>
   <p>High School Junior (Urbana HS)</p>
   <p><strong>Award:</strong> AEOP Apprentice</p>
