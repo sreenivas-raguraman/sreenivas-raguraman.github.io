@@ -1,10 +1,12 @@
 ---
-layout: profiles
+layout: page
 permalink: /mentorship/
 title: mentorship
-description: Meet the talented undergraduate, master's, and Ph.D. students I’ve had the opportunity to mentor.
+description: Students I’ve mentored through undergraduate, master’s, and high school research experiences.
 nav: true
 nav_order: 5
+---
+
 
 <style>
   .mentor-grid {
