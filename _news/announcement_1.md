@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-03-10
-title: Sreenivas' latest paper published in *Journal of Alloys and Compounds*
+title: Sreenivas' latest paper published in Journal of Alloys and Compounds
 inline: false
 related_posts: false
 ---
