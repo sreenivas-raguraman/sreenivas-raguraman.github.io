@@ -35,10 +35,10 @@ In the long term, I aim to be a Professor and lead a research group that builds 
 
 <!-- Institutional Logos Row -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 2em 0 1em;">
-  <img src="{{ '/assets/img/logos/JHU_logo.png' | relative_url }}" alt="Johns Hopkins University" height="50">
-  <img src="{{ '/assets/img/logos/HEMI_logo.png' | relative_url }}" alt="Hopkins Extreme Materials Institute" height="50">
-  <img src="{{ '/assets/img/logos/PNNL_logo.png' | relative_url }}" alt="Pacific Northwest National Laboratory" height="50">
-  <img src="{{ '/assets/img/logos/NIST_logo.png' | relative_url }}" alt="National Institute of Standards and Technology" height="50">
+  <img src="{{ '/assets/img/JHU_logo.png' | relative_url }}" alt="Johns Hopkins University" height="50">
+  <img src="{{ '/assets/img/HEMI_logo.png' | relative_url }}" alt="Hopkins Extreme Materials Institute" height="50">
+  <img src="{{ '/assets/img/PNNL_logo.png' | relative_url }}" alt="Pacific Northwest National Laboratory" height="50">
+  <img src="{{ '/assets/img/NIST_logo.png' | relative_url }}" alt="National Institute of Standards and Technology" height="50">
 </div>
 
 
