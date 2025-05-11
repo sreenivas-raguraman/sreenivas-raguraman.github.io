@@ -9,9 +9,6 @@ nav_order: 7
 As an early-career researcher, I actively contribute to the scientific community through editorial leadership, conference organization, peer review, and service in professional societies. My roles span technical symposium development, scholarly publishing, and academic governance, reflecting a commitment to both scientific advancement and community building within materials science and engineering.
 
 ---
-
-## 🛠️ Professional Service
-
 ### 📚 Editorial and Peer Review
 
 - **[Co-Guest Editor](https://www.tms.org/portal/portal/Publications/Journals/JOM/JOM_Topic_Details.aspx?topicID=7657)**, *JOM Special Issue on Advanced Surface Processing of Mg Alloys* (2025–2026)  
