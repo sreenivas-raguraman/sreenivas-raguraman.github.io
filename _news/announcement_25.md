@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-04-04
-title: Sreenivas selected as Discussion Leader at [**Gordon Research Seminar on Physical Metallurgy**](https://www.grc.org/physical-metallurgy-grs-conference/2025/)
+title: Sreenivas selected as Discussion Leader at Gordon Research Seminar - Physical Metallurgy.
 inline: false
 related_posts: false
 ---
