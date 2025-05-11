@@ -2,7 +2,7 @@
 layout: post
 date: 2025-02-18
 inline: false
-title: 🧪 New Publication in JOM — Evaluating In-Vitro Corrosion Testing of Mg Alloys
+title: New Publication in JOM — Evaluating In-Vitro Corrosion Testing of Mg Alloys
 related_posts: false
 ---
 
