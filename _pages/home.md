@@ -39,6 +39,9 @@ In the long term, I aim to be a Professor and lead a research group that builds 
   <img src="{{ '/assets/img/HEMI_logo.png' | relative_url }}" alt="Hopkins Extreme Materials Institute" height="70">
   <img src="{{ '/assets/img/PNNL_logo.png' | relative_url }}" alt="Pacific Northwest National Laboratory" height="65">
   <img src="{{ '/assets/img/NIST_logo.png' | relative_url }}" alt="National Institute of Standards and Technology" height="50">
+  <img src="{{ '/assets/img/NUS_logo.jpg' | relative_url }}" alt="National Univeristy of Singapore" height="70">
+  <img src="{{ '/assets/img/IISC_logo.jpg' | relative_url }}" alt="Indian Institute of Science, Bangalore" height="70">
+  <img src="{{ '/assets/img/NITT_logo.png' | relative_url }}" alt="National Institute of Technology, Tiruchirappalli" height="70">
 </div>
 
 
