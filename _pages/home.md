@@ -35,13 +35,13 @@ In the long term, I aim to be a Professor and lead a research group that builds 
 
 <!-- Institutional Logos Row -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 2em 0 1em;">
-  <img src="{{ '/assets/img/JHU_logo.png' | relative_url }}" alt="Johns Hopkins University" height="90">
+  <img src="{{ '/assets/img/JHU_logo.png' | relative_url }}" alt="Johns Hopkins University" height="98">
   <img src="{{ '/assets/img/HEMI_logo.png' | relative_url }}" alt="Hopkins Extreme Materials Institute" height="85">
   <img src="{{ '/assets/img/PNNL_logo.png' | relative_url }}" alt="Pacific Northwest National Laboratory" height="65">
   <img src="{{ '/assets/img/NIST_logo.png' | relative_url }}" alt="National Institute of Standards and Technology" height="50">
-  <img src="{{ '/assets/img/NUS_logo.jpg' | relative_url }}" alt="National Univeristy of Singapore" height="80">
-  <img src="{{ '/assets/img/IISC_logo.jpg' | relative_url }}" alt="Indian Institute of Science, Bangalore" height="80">
-  <img src="{{ '/assets/img/NITT_logo.png' | relative_url }}" alt="National Institute of Technology, Tiruchirappalli" height="80">
+  <img src="{{ '/assets/img/NUS_logo.jpg' | relative_url }}" alt="National Univeristy of Singapore" height="85">
+  <img src="{{ '/assets/img/IISc_logo.jpg' | relative_url }}" alt="Indian Institute of Science, Bangalore" height="85">
+  <img src="{{ '/assets/img/NITT_logo.png' | relative_url }}" alt="National Institute of Technology, Tiruchirappalli" height="85">
 </div>
 
 
