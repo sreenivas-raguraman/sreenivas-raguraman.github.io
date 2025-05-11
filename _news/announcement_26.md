@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2025-04-15
+date: 2025-04-30
+title: Sreenivas appointed Co-Guest Editor for JOM Special Issue on Surface Processing of Mg Alloys
 inline: false
 related_posts: false
 ---
