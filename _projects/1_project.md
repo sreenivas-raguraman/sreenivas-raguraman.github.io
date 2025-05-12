@@ -5,7 +5,6 @@ description: Understanding and optimizing hardness–corrosion trade-off via pro
 img: /assets/img/process-property.png
 importance: 1
 category: work
-giscus_comments: true
 ---
 
 This project explores the effect of **thermomechanical processing routes**—including extrusion, ECAP, annealing, and solution treatments—on the **microstructure and performance** of **ZX10 magnesium alloys** for biodegradable implant applications.
