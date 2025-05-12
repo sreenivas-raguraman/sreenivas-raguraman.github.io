@@ -1,80 +1,48 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Recrystallization Behavior in Commercially Pure Titanium
+description: Investigating the microstructure, texture, and mechanical evolution of cp-Ti during deformation and recrystallization.
+img: /assets/img/JOM_Recrystallization.jpeg
+importance: 1
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project was conducted during a research internship at the **Laboratory of Texture and Related Studies**, Department of Materials Engineering, **Indian Institute of Science (IISc), Bangalore**, under the guidance of **Prof. Dr. Satyam Suwas** and **Dr. Gyan Shankar**. The objective was to explore the development of crystallographic texture and mechanical property evolution in **commercial purity titanium (cp-Ti)** under cold rolling and subsequent recrystallization.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Objectives
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- Understand how deformation and annealing affect texture and hardness in cp-Ti.
+- Track the stages of recrystallization and associated microstructural evolution.
+- Develop insights that support simulation validation and future alloy design.
+
+### Methods
+
+- **Mechanical Processing**: Unidirectional cold rolling with 50% and 70% thickness reductions.
+- **Microstructural Characterization**:
+  - **Optical Microscopy** and **SEM** for surface morphology.
+  - **EBSD** for local orientation and recrystallization analysis.
+  - **X-ray Diffraction** for global texture quantification.
+- **Mechanical Testing**: Microhardness mapping using Vickers hardness tester.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/IISc work.webp" title="SEM Micrographs of cp-Ti" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/JOM_Recrystallization.jpeg" title="Texture Evolution by EBSD and XRD" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+<div class="caption">
+  Left: SEM images highlighting deformation-induced features. Right: EBSD-based texture and recrystallization maps with pole figures and grain orientation spread (GOS).
+</div>
 
-{% endraw %}
+### Outcomes
+
+This study offered fundamental insights into recrystallization mechanisms and texture development in cp-Ti—critical for tailoring formability and strength in commercial applications. It also served as a benchmark for validating simulations.
+
+### Relevant Publication
+
+- Gyan Shankar, Sreenivas Raguraman et al., *Development of Recrystallization Texture in Commercially Pure Titanium: Experiments and Simulation*,  
+  **JOM**, 72, 2, 758–767 (2020). [https://doi.org/10.1007/s11837-020-04447-3](https://doi.org/10.1007/s11837-020-04447-3)
+
+---
