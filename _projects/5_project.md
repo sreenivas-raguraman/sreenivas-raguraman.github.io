@@ -2,7 +2,7 @@
 layout: page
 title: Recrystallization Behavior in Commercially Pure Titanium
 description: Investigating the microstructure, texture, and mechanical evolution of cp-Ti during deformation and recrystallization.
-img: /assets/img/JOM_Recrystallization.jpeg
+img: /assets/img/JOM_Recrystallization.jpg
 importance: 1
 category: work
 ---
