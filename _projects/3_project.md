@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Degradation Kinetics and Ion Release in Mg-Al Alloy for Coronary Stents: In-Vitro and In-Vivo Studies
+title: "Degradation Kinetics and Ion Release in Mg-Al Alloy for Coronary Stents: In-Vitro and In-Vivo Studies"
 description: Investigating degradation behavior and aluminum release in Mg-9Al alloys for bioresorbable stent applications.
 img: /assets/img/invivo_ct_al.png
 importance: 3
