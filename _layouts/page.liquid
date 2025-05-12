@@ -28,4 +28,14 @@ layout: default
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
+
+  <!-- Social Footer -->
+  {% if site.social or site.contact_note %}
+    <div class="social mt-5 text-center">
+      <div class="contact-icons">{% include social.liquid %}</div>
+      {% if site.contact_note %}
+        <div class="contact-note mt-2">{{ site.contact_note }}</div>
+      {% endif %}
+    </div>
+  {% endif %}
 </div>
