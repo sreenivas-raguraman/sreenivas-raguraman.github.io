@@ -48,7 +48,7 @@ This project focuses on the **in-vitro and in-vivo degradation behavior of Mg-9A
 
 ### Key Insights
 
-- **Peak-aged microstructures**, rich in β-Mg<sub>17</sub>Al<sub>12</sub>, show **accelerated corrosion** in vitro due to micro-galvanic effects.
+- **Peak-aged microstructures**, rich in Mg<sub>17</sub>Al<sub>12</sub>, show **accelerated corrosion** in vitro due to micro-galvanic effects.
 - **Aluminum release**, though elevated in vitro, is being carefully evaluated in vivo for its systemic effects.
 - **In-vivo degradation** proceeds more gradually, indicating that the biological environment buffers degradation aggressiveness.
 
