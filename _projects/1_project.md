@@ -1,81 +1,69 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Thermomechanical Processing of ZX10 Magnesium Alloys
+description: Understanding and optimizing hardness–corrosion trade-off via processing of biodegradable ZX10 Mg alloys
+img: /assets/img/process-property.png
 importance: 1
 category: work
-related_publications: true
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project explores the effect of **thermomechanical processing routes**—including extrusion, ECAP, annealing, and solution treatments—on the **microstructure and performance** of **ZX10 magnesium alloys** for biodegradable implant applications.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our aim is to optimize the **strength–corrosion trade-off**, enabling better material performance for biomedical usage. This project is conducted in collaboration with **Fort Wayne Metals**, a leader in biomaterials processing and manufacturing.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Process Overview
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/process.png" title="Processing route: From extrusion to ECAP to annealing" class="img-fluid rounded z-depth-1" %}
   </div>
+</div>
+
+<div class="caption">
+  Full thermomechanical pathway applied to ZX10 Mg alloys: Extrusion at 350°C, ECAP at multiple conditions (200–300°C), and subsequent low-temperature annealing (150°C, 10 hrs) to modify grain structure and residual stress.
+</div>
+
+---
+
+## Property Optimization: Hardness vs Corrosion
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/process-property.png" title="Hardness–Corrosion Trade-off" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<div class="caption">
+  Hardness–corrosion map of processed ZX10 samples. Fine-tuning processing parameters reveals optimal trade-off zones. ECAP-A and select solution-treated states achieve high hardness and low corrosion rates.
+</div>
+
+---
+
+## Collaboration
+
+<div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/fwm.png" title="Fort Wayne Metals" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
 
-{% endraw %}
+<div class="caption">
+  In partnership with <strong>Fort Wayne Metals</strong>, this work explores scalable alloy development for medical wire and stent production.
+</div>
+
+---
+
+## Publications
+
+- **S. Raguraman**, et al. “Impact of Thermo-Mechanical Processing on Structure–Property Relationships in Biodegradable ZX10 Mg Alloys.” *Journal of Alloys and Compounds*, 2025.  
+  [https://doi.org/10.1016/j.jallcom.2025.180078](https://doi.org/10.1016/j.jallcom.2025.180078)
+
+- **S. Raguraman**, et al. “Machine Learning–Guided Accelerated Discovery of Biocompatible Processing Routes for ZX10 Magnesium Alloys.” In: *Magnesium Technology 2024*, Springer.  
+  [https://doi.org/10.1007/978-3-031-50240-8_40](https://doi.org/10.1007/978-3-031-50240-8_40)
+
+---
+
+This work lays the groundwork for our **machine learning-based optimization project**, where we integrate data-driven modeling to predict property outcomes and design better processing windows. See [Project 2](./project-2) for more.
