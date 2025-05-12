@@ -48,10 +48,10 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+#search_enabled: true
+#socials_in_search: true
+#posts_in_search: true
+#bib_search: true
 
 # Dimensions
 max_width: 930px
@@ -197,7 +197,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-search
+  #- jekyll-search
 
 # Sitemap settings
 defaults:
