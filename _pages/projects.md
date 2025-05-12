@@ -21,35 +21,35 @@ This work spans **fundamental investigations** of solute-vacancy interactions to
 
 <div class="row justify-content-center">
   <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/PNNL_logo.png" title="PNNL" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/PNNL_logo.png" title="PNNL" class="img-fluid rounded" style="height: 80px;" %}
   </div>
   <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/NIST_logo.png" title="NIST" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/NIST_logo.png" title="NIST" class="img-fluid rounded" style="height: 80px;" %}
   </div>
   <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/HEMI_logo.png" title="HEMI" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/HEMI_logo.png" title="HEMI" class="img-fluid rounded" style="height: 80px;" %}
   </div>
   <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/chembe.webp" title="JHU ChemBE" class="img-fluid rounded" %}
-  </div>
-</div>
-<div class="row justify-content-center">
-  <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/Physics.jpg" title="JHU Physics" class="img-fluid rounded" %}
-  </div>
-  <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/AI-X.jpg" title="AI-X Foundry" class="img-fluid rounded" %}
-  </div>
-  <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/mcw.jpg" title="MCW-Marquette Biomedical" class="img-fluid rounded" %}
-  </div>
-  <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/monash.png" title="Monash University" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/chembe.webp" title="JHU ChemBE" class="img-fluid rounded" style="height: 80px;" %}
   </div>
 </div>
 <div class="row justify-content-center">
   <div class="col-sm-3 mt-2">
-    {% include figure.liquid path="assets/img/WSU_Pullman.jpeg" title="Washington State University" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/Physics.jpg" title="JHU Physics" class="img-fluid rounded" style="height: 80px;" %}
+  </div>
+  <div class="col-sm-3 mt-2">
+    {% include figure.liquid path="assets/img/AI-X.jpg" title="AI-X Foundry" class="img-fluid rounded" style="height: 80px;" %}
+  </div>
+  <div class="col-sm-3 mt-2">
+    {% include figure.liquid path="assets/img/mcw.jpg" title="MCW-Marquette Biomedical" class="img-fluid rounded" style="height: 80px;" %}
+  </div>
+  <div class="col-sm-3 mt-2">
+    {% include figure.liquid path="assets/img/monash.png" title="Monash University" class="img-fluid rounded" style="height: 80px;" %}
+  </div>
+</div>
+<div class="row justify-content-center">
+  <div class="col-sm-3 mt-2">
+    {% include figure.liquid path="assets/img/WSU_Pullman.jpeg" title="Washington State University" class="img-fluid rounded" style="height: 80px;" %}
   </div>
 </div>
 
