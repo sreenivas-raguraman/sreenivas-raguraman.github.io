@@ -34,21 +34,14 @@ I am currently a **visiting researcher** at both **NIST** and **PNNL**, and earn
 In the long term, I aim to be a Professor and lead a research group that builds functional materials **from principles to performance** — across **biomedical**, **aerospace**, and **energy-relevant** applications.
 
 <!-- Institutional Logos Row -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 2em 0 1em; flex-wrap: wrap;">
-  <!-- First row (4 logos) -->
-  <div style="display: flex; gap: 30px;">
-    <img src="{{ '/assets/img/JHU_logo.png' | relative_url }}" alt="Johns Hopkins University" height="110">
-    <img src="{{ '/assets/img/HEMI_logo.png' | relative_url }}" alt="Hopkins Extreme Materials Institute" height="85">
-    <img src="{{ '/assets/img/PNNL_logo.png' | relative_url }}" alt="Pacific Northwest National Laboratory" height="65">
-    <img src="{{ '/assets/img/NIST_logo.png' | relative_url }}" alt="National Institute of Standards and Technology" height="50">
-  </div>
-
-  <!-- Second row (3 logos) -->
-  <div style="display: flex; gap: 30px; margin-top: 20px; justify-content: center; width: 100%;">
-    <img src="{{ '/assets/img/NUS_logo.jpg' | relative_url }}" alt="National University of Singapore" height="85">
-    <img src="{{ '/assets/img/IISc_logo.jpg' | relative_url }}" alt="Indian Institute of Science, Bangalore" height="85">
-    <img src="{{ '/assets/img/NITT_logo.png' | relative_url }}" alt="National Institute of Technology, Tiruchirappalli" height="85">
-  </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin: 2em 0 1em;">
+  <img src="{{ '/assets/img/JHU_logo.png' | relative_url }}" alt="Johns Hopkins University" style="max-height: 70px; max-width: 80px; width: auto; height: auto;">
+  <img src="{{ '/assets/img/HEMI_logo.png' | relative_url }}" alt="Hopkins Extreme Materials Institute" style="max-height: 70px; max-width: 80px; width: auto; height: auto;">
+  <img src="{{ '/assets/img/PNNL_logo.png' | relative_url }}" alt="Pacific Northwest National Laboratory" style="max-height: 70px; max-width: 80px; width: auto; height: auto;">
+  <img src="{{ '/assets/img/NIST_logo.png' | relative_url }}" alt="National Institute of Standards and Technology" style="max-height: 70px; max-width: 80px; width: auto; height: auto;">
+  <img src="{{ '/assets/img/NUS_logo.jpg' | relative_url }}" alt="National University of Singapore" style="max-height: 70px; max-width: 80px; width: auto; height: auto;">
+  <img src="{{ '/assets/img/IISc_logo.jpg' | relative_url }}" alt="Indian Institute of Science, Bangalore" style="max-height: 70px; max-width: 80px; width: auto; height: auto;">
+  <img src="{{ '/assets/img/NITT_logo.png' | relative_url }}" alt="National Institute of Technology, Tiruchirappalli" style="max-height: 70px; max-width: 80px; width: auto; height: auto;">
 </div>
 
 
