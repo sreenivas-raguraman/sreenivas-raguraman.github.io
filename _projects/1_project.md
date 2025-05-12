@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-This project explores the effect of **thermomechanical processing routes**—including extrusion, ECAP, annealing, and solution treatments—on the **microstructure and performance** of **ZX10 magnesium alloys** for biodegradable implant applications.
+This project explores the effect of **thermomechanical processing routes**—including extrusion, ECAP, rolling annealing, and solution treatments—on the **microstructure and performance** of **ZX10 magnesium alloys** for biodegradable implant applications.
 
 Our aim is to optimize the **strength–corrosion trade-off**, enabling better material performance for biomedical usage. This project is conducted in collaboration with **Fort Wayne Metals**, a leader in biomaterials processing and manufacturing.
 
@@ -50,19 +50,19 @@ Our aim is to optimize the **strength–corrosion trade-off**, enabling better m
 </div>
 
 <div class="caption">
-  In partnership with <strong>Fort Wayne Metals</strong>, this work explores scalable alloy development for medical wire and stent production.
+  In partnership with [Mr. Adam Griebel](https://www.linkedin.com/in/adam-griebel-19663717/) from <strong>Fort Wayne Metals</strong>, this work explores optimization of commercial process pathways for orthopedic screw application.
+
 </div>
 
 ---
 
 ## Publications
 
-- **S. Raguraman**, et al. “Impact of Thermo-Mechanical Processing on Structure–Property Relationships in Biodegradable ZX10 Mg Alloys.” *Journal of Alloys and Compounds*, 2025.  
-  [https://doi.org/10.1016/j.jallcom.2025.180078](https://doi.org/10.1016/j.jallcom.2025.180078)
+- **S. Raguraman**, et al. “Simultaneous optimization of strength and bio-corrosion resistance in biodegradable ZX10 magnesium alloy via thermomechanical processing and annealing” *Journal of Alloys and Compounds*, 2025. [https://doi.org/10.1016/j.jallcom.2025.180078](https://doi.org/10.1016/j.jallcom.2025.180078)
 
-- **S. Raguraman**, et al. “Machine Learning–Guided Accelerated Discovery of Biocompatible Processing Routes for ZX10 Magnesium Alloys.” In: *Magnesium Technology 2024*, Springer.  
+- **S. Raguraman**, et al. “Impact of Thermo-Mechanical Processing on Structure–Property Relationships in Biodegradable ZX10 Mg Alloys.” In: *Magnesium Technology 2024*, Springer.  
   [https://doi.org/10.1007/978-3-031-50240-8_40](https://doi.org/10.1007/978-3-031-50240-8_40)
 
 ---
 
-This work lays the groundwork for our **machine learning-based optimization project**, where we integrate data-driven modeling to predict property outcomes and design better processing windows. See [Project 2](./project-2) for more.
+This work lays the groundwork for our **machine learning-based optimization project**, where we integrate data-driven modeling to predict property outcomes and design better processing windows. See [Machine Learning-Driven Optimization in Biodegradable Mg Alloys](./2_project) for more.
