@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Research Website of Sreenivas Raguraman, Ph.D. candidate in Materials Science at Johns Hopkins University. Research on biodegradable magnesium alloys, corrosion, ion release, and microstructure-property relationships enhanced by machine learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Special thanks to <strong>Jackson Goedjen</strong> and <strong>Gokul Kannan</strong> for their support and contributions.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Special thanks to Jackson Goedjen and Gokul Kannan for their support and contributions.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
