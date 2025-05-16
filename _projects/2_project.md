@@ -7,9 +7,9 @@ importance: 1
 category: work
 ---
 
-In this project, we develop a machine learning–guided strategy to simultaneously optimize **corrosion resistance** and **hardness** in biodegradable magnesium alloys—crucial for applications such as **resorbable vascular scaffolds**.
+In this project, we develop a machine learning–guided strategy to simultaneously optimize **corrosion resistance** and **hardness** in biodegradable magnesium alloys, crucial for applications such as **resorbable vascular scaffolds**.
 
-Working with **Prof. Paulette Clancy**, **Prof. Maitreyee Sharma**, and **Dr. Adam Griebel** at **Fort Wayne Metals**, we integrate **physics-informed LASSO models** and the **PAL 2.0 Bayesian optimization framework** to uncover structure–property linkages and suggest optimal processing paths.
+Working with (Prof. Paulette Clancy)[https://engineering.jhu.edu/faculty/paulette-clancy/] from Johns Hopkins University, Prof. Maitreyee Sharma Priyadharshini](https://www.aoe.vt.edu/people/faculty/maitreyee-sharma-priyadarshini.html) at **Virginia Tech**, and [Mr. Adam Griebel](https://www.linkedin.com/in/adam-griebel-19663717/) at **Fort Wayne Metals**, we integrate **physics-informed LASSO models** and the **PAL 2.0 Bayesian optimization framework** to uncover structure–property linkages and suggest optimal processing paths.
 
 ---
 
