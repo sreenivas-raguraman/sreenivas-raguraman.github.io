@@ -50,7 +50,7 @@ Our aim is to optimize the **strength–corrosion trade-off**, enabling better m
 </div>
 
 <div class="caption">
-  In partnership with [Mr. Adam Griebel](https://www.linkedin.com/in/adam-griebel-19663717/) from <strong>Fort Wayne Metals</strong>, this work explores optimization of commercial process pathways for orthopedic screw application.
+  In partnership with Mr. Adam Griebel from <strong>Fort Wayne Metals</strong>, this work explores optimization of commercial process pathways for orthopedic screw application.
 
 </div>
 
