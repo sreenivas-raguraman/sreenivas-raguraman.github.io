@@ -60,19 +60,19 @@ Below are a few of the mentees I’ve worked with:
 <div class="mentee-grid">
 
 <div class="mentee-card">
-  <img src="/assets/img/Tram.jpg" alt="Tram Nguyen">
-  <h4>Tram Nguyen *</h4>
-  <p>M.S. Materials Science & Engineering</p>
-  <p><strong>Now:</strong> Ph.D. Candidate, JHU (Grayson Lab)</p>
-  <a href="https://www.linkedin.com/in/tram325/" target="_blank">LinkedIn</a>
-</div>
-
-<div class="mentee-card">
   <img src="/assets/img/Diana.jpg" alt="Diana Bershadsky">
   <h4>Diana Bershadsky *</h4>
   <p>M.S. Mechanical Engineering</p>
   <p><strong>Now:</strong> Shift Supervisor, Puratos</p>
   <a href="https://www.linkedin.com/in/dianabershadsky/" target="_blank">LinkedIn</a>
+</div>
+
+<div class="mentee-card">
+  <img src="/assets/img/Tram.jpg" alt="Tram Nguyen">
+  <h4>Tram Nguyen *</h4>
+  <p>M.S. Materials Science & Engineering</p>
+  <p><strong>Now:</strong> Ph.D. Candidate, JHU (Grayson Lab)</p>
+  <a href="https://www.linkedin.com/in/tram325/" target="_blank">LinkedIn</a>
 </div>
 
 </div>
@@ -84,7 +84,7 @@ Below are a few of the mentees I’ve worked with:
 <div class="mentee-grid">
 
 <div class="mentee-card">
-  <img src="/assets/img/Andrew.jpg" alt="Andrew Kim">
+  <img src="/assets/img/AK.png" alt="Andrew Kim">
   <h4>Andrew Kim *</h4>
   <p>B.S. Materials Sci. & Eng.</p>
   <p><strong>Awards:</strong> PURA, EPFL, JHU APL</p>
@@ -107,7 +107,7 @@ Below are a few of the mentees I’ve worked with:
 </div>
 
 <div class="mentee-card">
-  <img src="/assets/img/Tunde.jpg" alt="Tunde Ayodeji">
+  <img src="/assets/img/TA.jpeg" alt="Tunde Ayodeji">
   <h4>Tunde Ayodeji *</h4>
   <p>B.S. Mechanical Engineering</p>
   <p><strong>Award:</strong> SERIUS Fellow, NUS</p>
