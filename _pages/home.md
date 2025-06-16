@@ -46,7 +46,7 @@ In the long term, I aim to be a Professor and lead a research group that builds 
 
 
 <div style="margin-top: 1.5em; text-align: right;">
-  <a href="https://www.dropbox.com/scl/fo/opzn02fgyyaexllhry4co/AJTkTobCrdFDnp7KKVAs0LA?rlkey=7xby4khfmbcsoo71zlc7v8i8f&dl=1" 
+  <a href="https://drive.google.com/file/d/1E3z3yZ1yoZEbUPCzxu6EF9_IKj7aBR60/view?usp=drive_link" 
      class="btn btn--primary" 
      target="_blank" 
      rel="noopener noreferrer">
