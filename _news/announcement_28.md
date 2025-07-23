@@ -16,21 +16,9 @@ Sreenivas Raguraman recently participated as **Discussion Leader** in the **Gord
 His poster titled  
 > *"Unraveling the Role of Vacancies in Driving Solute Clustering in Magnesium Alloys"*  
 
-showcased new insights into how processing pathways can tune vacancy behavior to control alloy performance. The discussions at the conference deeply engaged with both **fundamental mechanisms** and **translational opportunities**.
+showcased new insights into how vacancies can impact the solute clustering behavior as a function of alloying elements. The discussions at the conference deeply engaged with both **fundamental mechanisms** and **translational opportunities**.
 
 ---
 
 ### 🙌 Acknowledgments  
-Sreenivas extends sincere thanks to the GRC organizers **Prof. Dallas Trinkle** and **Prof. Emmanuelle Marquis** for orchestrating a truly inspiring event, and to **Dr. Rebecca Gallivan** and **Dr. Gina Greenidge** for the opportunity to serve as a Discussion Leader.
-
-He also thanks **Nerea Abando Beldarrain** for co-leading a vibrant session on **AI in materials design**, and many mentors and peers for their insightful discussions, including:
-- Dr. **Steven Van Petegem**  
-- Prof. **Jörg Neugebauer**  
-- Prof. **Daniel Gianola**  
-- Prof. **Cem Tasan**  
-- Dr. **Amit Shyam**  
-- Dr. **Bharat Gwalani**, and others
-
----
-
-### 💬 Reflect
+Sreenivas extends sincere thanks to the GRC organizers **Prof. Dallas Trinkle** and **Prof. Emmanuelle Marquis** for orchestrating a truly inspiring event, and to GRS organizers **Dr. Rebecca Gallivan** and **Dr. Gina Greenidge** for the opportunity to serve as a Discussion Leader for the **Processing-Structure Relationships: Probing Microstructure Formation** session.
