@@ -17,7 +17,7 @@ Sreenivas Raguraman has been elected to the **Editorial Board of *JOM – The Jo
 
 As a board member, Sreenivas contributes to the journal’s scientific direction through:
 - Manuscript review and editorial guidance  
-- Curating high-quality magnesium alloy research  
+- Editing an issue on high-quality magnesium alloy research  
 - Supporting the TMS community’s publishing goals
 
 ---
@@ -29,4 +29,4 @@ This appointment recognizes Sreenivas’ growing leadership in the field of **ma
 
 ---
 
-🔗 [JOM Editorial Board]([https://link.springer.com/journal/11837/editorial-board])
+🔗 [JOM Editorial Board](https://link.springer.com/journal/11837/editorial-board)
