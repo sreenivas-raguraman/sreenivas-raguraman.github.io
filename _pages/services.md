@@ -13,12 +13,14 @@ As an early-career researcher, I actively contribute to the scientific community
 
 - **[Co-Guest Editor](https://www.tms.org/portal/portal/Publications/Journals/JOM/JOM_Topic_Details.aspx?topicID=7657)**, *JOM Special Issue on Advanced Surface Processing of Mg Alloys* (2025–2026)  
   Sponsored by the [TMS Magnesium Committee](https://www.tms.org/portal/portal/Divisions___Committees/Divisions___Committees/Light_Metals_Division/Magnesium_Committee/home.aspx)
-- **Editorial Advisor-in-Training**, *TMS Magnesium Committee* (2025–2026)
+- **Editorial Board Member**, *JOM Magnesium Committee* (2025–2026)
 - **Peer Reviewer** for:  
   - *[Journal of Alloys and Compounds](https://www.sciencedirect.com/journal/journal-of-alloys-and-compounds)*  
   - *[JOM](https://link.springer.com/journal/11837)*  
   - *[Materials Characterization](https://www.sciencedirect.com/journal/materials-characterization)*  
   - *[Anti-Corrosion Methods and Materials](https://www.emeraldgrouppublishing.com/journal/acmm)*
+  - *[Journal of Bio- and Tribo-Corrosion](https://link.springer.com/journal/40735)*
+  - *[Materials Today Communications](https://www.sciencedirect.com/journal/materials-today-communications)*
 
 ---
 
