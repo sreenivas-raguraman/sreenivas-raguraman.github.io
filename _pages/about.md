@@ -49,17 +49,6 @@ This ecosystem accelerates my goal of turning bench-scale science into real-worl
 
 ---
 
-<div style="margin-top: 1.5em; text-align: right;">
-  <a href="https://www.dropbox.com/scl/fo/opzn02fgyyaexllhry4co/AJTkTobCrdFDnp7KKVAs0LA?rlkey=7xby4khfmbcsoo71zlc7v8i8f&dl=1" 
-     class="btn btn--primary" 
-     target="_blank" 
-     rel="noopener noreferrer">
-     📄 Download CV
-  </a>
-</div>
-
----
-
 ## 🎶 Beyond the Lab
 
 - 🎼 Trained in Indian classical music  
