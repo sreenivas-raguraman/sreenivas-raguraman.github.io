@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-07-31
-title: Latest Preprint: Microstructure Shapes Corrosion and Aluminum Fate in Biodegradable Mg–Al Alloys
+title: Latest Preprint - Microstructure Shapes Corrosion and Aluminum Fate in Biodegradable Mg–Al Alloys
 inline: false
 related_posts: false
 ---
