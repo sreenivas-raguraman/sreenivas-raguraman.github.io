@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-07-31
-title: New Preprint — Microstructure Controls Corrosion & Aluminum Fate in Mg–Al Alloys
+title: Latest Preprint: Microstructure Shapes Corrosion and Aluminum Fate in Biodegradable Mg–Al Alloys
 inline: false
 related_posts: false
 ---
@@ -15,7 +15,7 @@ Pleased to announce our latest preprint on **Mg–Al alloys for biodegradable im
 ###  Study Highlights  
 - **In Vitro**:  Peak-aged (PA) samples—rich in β-Mg₁₇Al₁₂ precipitates—displayed **accelerated pitting corrosion** and **higher total Al release** compared to solution-treated (ST) samples.  
 - **In Vivo**:  The opposite trend emerged—ST implants resulted in **higher systemic Al ion levels**, while PA implants retained more precipitate fragments at the implant site, reducing systemic transport.  
-- **Key Insight**: Aluminum speciation matters—ST alloys release solute Al that's rapidly transportable, whereas PA alloys retain elongated precipitate fragments that remain localized. This underscores that **microstructure impacts not just performance, but also the bioavailability and physiological distribution of degradation products**. :contentReference[oaicite:2]{index=2}
+- **Key Insight**: Aluminum speciation matters—ST alloys release solute Al that's rapidly transportable, whereas PA alloys retain elongated precipitate fragments that remain localized. This underscores that **microstructure impacts not just performance, but also the bioavailability and physiological distribution of degradation products**. 
 
 This work provides a framework for designing **safe, effective biodegradable Mg-based implants** that balance mechanical strength with favorable biological clearance.
 
@@ -24,8 +24,7 @@ This work provides a framework for designing **safe, effective biodegradable Mg-
 ###  Collaborators  
 Grateful to collaborate with **Mitchell Connon**, **Prof. Roger Guillory II (Medical College of Wisconsin)**, and **Prof. Suhas Eswarappa Prameela (University of Utah)**.
 
-Special thanks to my advisor **Prof. Timothy P. Weihs**, lab mates **Dr. Rohit Berlia** and **Beril Ulugun**, and our undergrads **Camryn Byrum** and **Veronica Ivanovskaya** for their outstanding contributions. :contentReference[oaicite:3]{index=3}
-
+Special thanks to my advisor **Prof. Timothy P. Weihs**, lab mates **Dr. Rohit Berlia** and **Beril Ulugun**, and our undergrads **Camryn Byrum** and **Veronica Ivanovskaya** for their outstanding contributions. 
 ---
 
 ###  Why This Matters  
@@ -41,10 +40,6 @@ Biodegradable metals are poised to revolutionize implant technology. By unpackin
 
 ###  Looking Ahead  
 What role will metals play in the future of medicine? Our continuing work seeks to refine alloy processing to deliver next-gen **biodegradable, safe, medically responsive implants**.
-
-**The Johns Hopkins University**  
-**Johns Hopkins Department of Materials Science and Engineering**  
-**Hopkins Extreme Materials Institute at Johns Hopkins University**
 
 ---
 
