@@ -12,13 +12,32 @@ I am a **Ph.D. candidate in Materials Science and Engineering at Johns Hopkins U
 
 ### 🔬 Research Philosophy
 
-My scientific approach centers on **engineering microstructure and defects**—from **grain boundaries** to **vacancy clusters**—to realize materials that are **mechanically robust**, **biocorrosion-resistant**, and **biocompatible**. I use techniques such as **severe plastic deformation** and **thermomechanical processing** to optimize material properties through **rapid**, **cost-effective**, and **scalable** processing strategies.
+  <p>
+    My research philosophy is rooted in engineering microstructures and defects
+    (from grain boundaries to vacancy clusters) to create materials that are
+    simultaneously mechanically robust, corrosion-resistant, and biocompatible.
+    I combine thermomechanical processing and severe plastic deformation with
+    advanced characterization to uncover fundamental mechanisms and translate
+    them into scalable, cost-effective processing strategies.
+  </p>
 
-My dissertation focuses on **biodegradable Mg alloys**, but I’ve also led/co-authored work on:
-- Vacancy-induced solute clustering in Mg  
-- Al-based reactive materials for enhanced ignition  
-- In vivo aluminum toxicity mitigation  
-- ML-guided alloy and process design  
+  <p>
+    While my dissertation focuses on biodegradable magnesium alloys for medical
+    implants, my broader research portfolio spans:
+  </p>
+
+  <ul>
+    <li><strong>Vacancy-induced solute clustering in Mg alloys</strong>, linking point defects to microstructural stability and performance.</li>
+    <li><strong>Reactive Al-based materials</strong> designed for controlled ignition and energy release.</li>
+    <li><strong>In vivo studies on aluminum release and toxicity</strong>, bridging in vitro testing with biological response.</li>
+    <li><strong>Collaborations in ML-guided alloy and process design</strong>, where data-driven tools accelerate processing optimization.</li>
+  </ul>
+
+  <p>
+    Ultimately, my goal is to connect atomic-scale mechanisms with
+    application-driven performance, advancing materials that perform reliably in
+    biomedical, aerospace, and energy environments.
+  </p>
 
 Learn more about my projects in [Research →](/research/).
 
