@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: "Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreenivas-raguraman/'>Johns Hopkins University</a>."
+subtitle: "Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreenivas-raguraman/'>Johns Hopkins University</a>. <br><em>Designing materials from <strong>atoms to applications</strong> through processing, defect engineering, and microstructure control.</em>"
 
 profile:
   align: left
