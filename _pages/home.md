@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: "Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreenivas-raguraman/'>Johns Hopkins University</a>. <br><em>Designing materials from <strong>atoms to applications</strong> through processing, defect engineering, and microstructure control.</em>"
+subtitle: "Ph.D. Candidate at <a href='https://weihsgroup.jhu.edu/people/sreenivas-raguraman/'>Johns Hopkins University</a>. <br>Designing materials from <strong>atoms to applications</strong> through processing, defect engineering, and microstructure control."
 
 profile:
   align: left
@@ -24,19 +24,19 @@ latest_posts:
 ---
 
 <p>
-  I am a Ph.D. candidate in the <strong>Department of Materials Science &amp; Engineering</strong> at <strong>Johns Hopkins University</strong>, working with <a href="https://engineering.jhu.edu/faculty/timothy-weihs/" target="_blank">Prof. Timothy P. Weihs</a>. 
-  I am also a <strong>visiting researcher</strong> at the <strong>Pacific Northwest National Laboratory (PNNL)</strong> and a former 
-  <strong>Foreign Guest Researcher</strong> at the <strong>National Institute of Standards and Technology (NIST)</strong>.
+  I am a Ph.D. candidate in the Department of Materials Science &amp; Engineering at <strong>Johns Hopkins University</strong>, working with <a href="https://engineering.jhu.edu/faculty/timothy-weihs/" target="_blank">Prof. Timothy P. Weihs</a>. 
+  I am also a visiting researcher at the <strong>Pacific Northwest National Laboratory (PNNL)</strong> and a former 
+  Foreign Guest Researcher at the <strong>National Institute of Standards and Technology (NIST)</strong>.
 </p>
 
 <p>
   My research bridges <strong>processing science</strong>, <strong>defect engineering</strong>, and <strong>microstructure design</strong> to create materials that perform reliably in 
-  <strong>biomedical, aerospace, and energy applications</strong>. From <strong>biodegradable implants</strong> that safely dissolve in the body to <strong>alloys that endure extreme environments</strong>, I use 
-  <strong>advanced characterization techniques</strong> and collaborate across <strong>computational, biological, and industrial teams</strong> to accelerate the pathway from <em>atoms to applications</em>.
+ biomedical, aerospace, and energy applications. From biodegradable implants that safely dissolve in the body to alloys that endure extreme environments, I use 
+  advanced characterization techniques and collaborate across computational, biological, and industrial teams to accelerate the pathway from <strong>atoms to applications</strong>.
 </p>
 
 <p>
-  I earned my <strong>B.Tech. in Metallurgical and Materials Engineering</strong> from <strong>NIT Trichy</strong>, with research internships at the <strong>Indian Institute of Science (IISc) Bangalore</strong> and the <strong>National University of Singapore (NUS)</strong>.
+  I earned my B.Tech in Metallurgical and Materials Engineering from NIT Trichy, with research internships at the Indian Institute of Science (IISc) Bangalore and the National University of Singapore (NUS).
 </p>
 
 <!-- Institutional Logos Row -->
