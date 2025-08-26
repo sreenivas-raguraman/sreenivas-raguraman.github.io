@@ -23,16 +23,21 @@ latest_posts:
   limit: 3
 ---
 
-I am a researcher in the **Department of Materials Science & Engineering** at **Johns Hopkins University**, where I earned my **M.S.** and am currently pursuing a **Ph.D.** under the mentorship of [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). I am also a **visiting researcher** at the **Pacific Northwest National Laboratory (PNNL)** and was previously a **Foreign Guest Researcher** at the **National Institute of Standards and Technology (NIST)**.
+<p>
+  I am a Ph.D. candidate in the <strong>Department of Materials Science &amp; Engineering</strong> at <strong>Johns Hopkins University</strong>, working with <a href="https://engineering.jhu.edu/faculty/timothy-weihs/" target="_blank">Prof. Timothy P. Weihs</a>. 
+  I am also a <strong>visiting researcher</strong> at the <strong>Pacific Northwest National Laboratory (PNNL)</strong> and a former 
+  <strong>Foreign Guest Researcher</strong> at the <strong>National Institute of Standards and Technology (NIST)</strong>.
+</p>
 
-My research focuses on **engineering microstructures and defect landscapes** to enhance **mechanical performance**, **corrosion resistance**, and **biocompatibility** in both **biomedical** and **structural** materials. I integrate **materials processing**, **thermomechanical design**, and **advanced characterization techniques** to enable materials-by-design approaches that connect **fundamental mechanisms** with **application-driven performance metrics**. These include improving implant reliability and designing robust alloys for extreme environments.
+<p>
+  My research bridges <strong>processing science</strong>, <strong>defect engineering</strong>, and <strong>microstructure design</strong> to create materials that perform reliably in 
+  <strong>biomedical, aerospace, and energy applications</strong>. From <strong>biodegradable implants</strong> that safely dissolve in the body to <strong>alloys that endure extreme environments</strong>, I use 
+  <strong>advanced characterization techniques</strong> and collaborate across <strong>computational, biological, and industrial teams</strong> to accelerate the pathway from <em>atoms to applications</em>.
+</p>
 
-I collaborate with **machine learning researchers** (for predictive alloy design), **computational scientists** (to understand thermodynamics and kinetics), and **in vivo testing teams** (to study biological-material interactions). My experience spans **academia**, **national laboratories**, and **industry**, allowing me to translate fundamental insights into scalable and cost-effective solutions.
-
-Prior to my Ph.D., I earned my **Bachelor of Technology in Metallurgical and Materials Engineering** from **NIT Trichy**, and completed research internships at the **National University of Singapore** and **IISc Bangalore**, focusing on magnesium-based biomaterials and recrystallization in light metals.
-
-In the long term, I aim to become a **professor** and lead a research group that develops functional materials from **principles to performance** across **biomedical**, **aerospace**, and **energy-related** applications.
-
+<p>
+  I earned my <strong>B.Tech. in Metallurgical and Materials Engineering</strong> from <strong>NIT Trichy</strong>, with research internships at the <strong>Indian Institute of Science (IISc) Bangalore</strong> and the <strong>National University of Singapore (NUS)</strong>.
+</p>
 
 <!-- Institutional Logos Row -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin: 2em 0 1em;">
