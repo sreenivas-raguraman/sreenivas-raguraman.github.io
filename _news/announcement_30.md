@@ -8,7 +8,7 @@ related_posts: false
 
 📄 **New Preprint Published**
 
-Pleased to announce our latest preprint on **Mg–Al alloys for biodegradable implants**, where we examine how **microstructure governs both corrosion behavior and the systemic fate of aluminum (Al)**—a critical factor in implant safety. :contentReference[oaicite:1]{index=1}
+Pleased to announce our latest preprint on **Mg–Al alloys for biodegradable implants**, where we examine how **microstructure governs both corrosion behavior and the systemic fate of aluminum (Al)**—a critical factor in implant safety. :contentReference
 
 ---
 
