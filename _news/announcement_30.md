@@ -8,8 +8,7 @@ related_posts: false
 
 📄 **New Preprint Published**
 
-Pleased to announce our latest preprint on **Mg–Al alloys for biodegradable implants**, where we examine how **microstructure governs both corrosion behavior and the systemic fate of aluminum (Al)**—a critical factor in implant safety. :contentReference
-
+Pleased to announce our latest preprint on **Mg–Al alloys for biodegradable implants**, where we examine how **microstructure governs both corrosion behavior and the systemic fate of aluminum (Al)**—a critical factor in implant safety. 
 ---
 
 ###  Study Highlights  
@@ -18,13 +17,6 @@ Pleased to announce our latest preprint on **Mg–Al alloys for biodegradable im
 - **Key Insight**: Aluminum speciation matters—ST alloys release solute Al that's rapidly transportable, whereas PA alloys retain elongated precipitate fragments that remain localized. This underscores that **microstructure impacts not just performance, but also the bioavailability and physiological distribution of degradation products**. 
 
 This work provides a framework for designing **safe, effective biodegradable Mg-based implants** that balance mechanical strength with favorable biological clearance.
-
----
-
-###  Collaborators  
-Grateful to collaborate with **Mitchell Connon**, **Prof. Roger Guillory II (Medical College of Wisconsin)**, and **Prof. Suhas Eswarappa Prameela (University of Utah)**.
-
-Special thanks to my advisor **Prof. Timothy P. Weihs**, lab mates **Dr. Rohit Berlia** and **Beril Ulugun**, and our undergrads **Camryn Byrum** and **Veronica Ivanovskaya** for their outstanding contributions. 
 ---
 
 ###  Why This Matters  
