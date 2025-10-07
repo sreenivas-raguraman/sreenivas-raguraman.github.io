@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-09-17
-title: Presenting at the Johns Hopkins MCP Annual Users Meeting
+title: Invited Talk at the Johns Hopkins MCP Annual Users Meeting
 inline: false
 related_posts: false
 ---
