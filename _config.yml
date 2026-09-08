@@ -2,25 +2,33 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Sreenivas
-middle_name: #R.
-last_name: Raguraman
-contact_note: >
-    Feel free to reach out to me via email for collaborations, talks, or questions about my research.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research Website of Sreenivas Raguraman, Ph.D. candidate in Materials Science at Johns Hopkins University. Research on biodegradable magnesium alloys, corrosion, ion release, and microstructure-property relationships enhanced by machine learning.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Special thanks to Gokul Kannan for his support and contributions.
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
 
-url: https://sreenivas-raguraman.github.io # the base hostname & protocol for your site
-baseurl: #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+title: blank
+first_name: Sreenivas
+middle_name:
+last_name: Raguraman
+
+contact_note: >
+  Feel free to reach out regarding research, collaborations, talks, or other scientific opportunities.
+
+description: >
+  Research website of Sreenivas Raguraman, an experimental materials scientist and Postdoctoral Researcher at ETH Zürich. Research interests include defect and vacancy engineering, non-equilibrium materials processing, metallic biomaterials, nuclear and irradiation-resistant materials, sustainable materials design, and data-driven materials discovery.
+
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with
+  <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+lang: en
+icon: ⚛️
+
+url: https://sreenivas-raguraman.github.io
+baseurl:
+last_updated: true
+back_to_top: true
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -30,7 +38,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -65,7 +73,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: /assets/img/1681870258319.jpeg # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/Sreenivas_Headshot.jpeg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -274,10 +282,10 @@ scholar:
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
-  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
+  altmetric: false # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
+  dimensions: false # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
@@ -369,9 +377,9 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: true # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: false # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
-enable_medium_zoom: false # enables image zoom feature (as on medium.com)
+enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
