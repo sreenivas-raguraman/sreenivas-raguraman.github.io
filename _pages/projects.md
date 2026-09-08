@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: A growing collection of multi-scale, interdisciplinary research projects on microstructural and defect engineering, and advanced materials for biomedical purposes.
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: [work]
 horizontal: false
 _styles: |
