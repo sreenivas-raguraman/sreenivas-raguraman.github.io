@@ -2,8 +2,8 @@
 layout: page
 title: about
 permalink: /about/
-nav: true
-nav_order: 2
+nav: false
+nav_order: 9
 ---
 
 I am a **Ph.D. candidate in Materials Science and Engineering at Johns Hopkins University**, advised by [Prof. Timothy P. Weihs](https://engineering.jhu.edu/faculty/timothy-weihs/). My research is rooted in experimental physical metallurgy with a strong drive to connect **processing, structure, and property relationships** across **lightweight structural**, **biomedical**, and **reactive materials**.
