@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: "Incoming Postdoctoral Researcher at <a href='https://metphys.mat.ethz.ch/' target='_blank'>ETH Zürich</a> | Ph.D., Johns Hopkins University <br>Engineering metallic materials from <strong>atoms to applications</strong> through processing, defects, microstructure, and data-driven design."
+subtitle: "Incoming Postdoctoral Researcher at <a href='https://metphys.mat.ethz.ch/' target='_blank'>ETH Zürich</a> | Ph.D., <a href='https://weihsgroup.jhu.edu/' target='_blank'>Johns Hopkins University</a> <br>Engineering metallic materials from <strong>atoms to applications</strong> through processing, defects, microstructure, and data-driven design."
 
 profile:
   align: left
@@ -22,8 +22,6 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
-### About
 
 I am an <strong>experimental materials scientist</strong> interested in designing metallic materials from the atomic scale to application. My research focuses on how <strong>defects, chemistry, microstructure, and non-equilibrium processing</strong> interact to control material behavior, and how these relationships can be engineered to achieve targeted performance.
 
