@@ -3,7 +3,7 @@ layout: page
 permalink: /services/
 title: services
 nav: true
-nav_order: 7
+nav_order: 5
 ---
 
 As an early-career researcher, I actively contribute to the scientific community through editorial leadership, conference organization, peer review, and service in professional societies. My roles span technical symposium development, scholarly publishing, and academic governance, reflecting a commitment to both scientific advancement and community building within materials science and engineering.
