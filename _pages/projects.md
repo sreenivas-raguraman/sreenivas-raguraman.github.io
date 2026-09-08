@@ -40,9 +40,13 @@ _styles: |
 
 ### Research Vision
 
-My research focuses on building fundamental understanding and advancing applied technologies for metallic systems. I study **vacancy-mediated clustering, precipitation, and recrystallization** at the atomic scale and develop **engineering solutions** for **biodegradable magnesium implants**, linking microstructure to **mechanical performance, corrosion resistance**, and **ion release behavior**.
+My research centers on <strong>mechanism-driven, processing-aware materials design</strong>. I seek to understand the physical mechanisms that control material behavior, then use that understanding to deliberately engineer composition, defects, interfaces, microstructure, and processing pathways around the needs of a specific application.
 
-This work spans **fundamental investigations** of solute-vacancy interactions to **data-driven optimization** of processing-microstructure-property relationships, and is conducted in close collaboration with national labs, universities, and industry partners.
+I approach these problems experimentally across length scales, from atomic-scale defects to bulk performance. A central theme in my work is understanding how materials evolve under <strong>non-equilibrium processing and demanding service conditions</strong>, and how changes at the atomic and microstructural levels ultimately translate into macroscopic behavior. Rather than treating processing, characterization, properties, and application requirements as separate questions, I bring them together to identify what truly limits performance and how that limitation can be overcome.
+
+This philosophy has shaped my work on <strong>biodegradable magnesium alloys</strong>, where mechanical integrity, degradation, biological response, and manufacturability must be considered simultaneously. It also underpins my work in <strong>defect and vacancy engineering</strong>, where controlling atomic-scale defect populations provides a route to influence diffusion, phase evolution, and microstructural stability. Building on these foundations, I am interested in extending the same mechanistic framework toward <strong>nuclear and irradiation-resistant materials</strong>, <strong>materials for extreme environments</strong>, and <strong>sustainable materials design and processing</strong>.
+
+To address these questions, I combine <strong>advanced characterization, non-equilibrium processing, and data-driven experimental design</strong>. I view these as complementary tools for connecting fundamental mechanisms with practical design decisions. Ultimately, my goal is to move from understanding <em>why</em> a material behaves the way it does to determining <em>how to make it perform better</em>, from <strong>atoms to applications</strong>.
 
 ---
 
