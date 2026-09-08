@@ -31,7 +31,7 @@ I combine <strong>advanced characterization, materials processing, and data-driv
 
 Beginning in October 2026, I will join the <a href="https://metphys.mat.ethz.ch/" target="_blank"><strong>Laboratory of Metal Physics and Technology (LMPT) at ETH Zürich</strong></a> as a Postdoctoral Researcher with <a href="https://mat.ethz.ch/department/people/person-detail.loeffler.html" target="_blank"><strong>Prof. Jörg F. Löffler</strong></a>. I completed my Ph.D. in Materials Science and Engineering at <strong>Johns Hopkins University</strong> with <a href="https://engineering.jhu.edu/faculty/timothy-weihs/" target="_blank"><strong>Prof. Timothy P. Weihs</strong></a>, and was previously a <strong>Visiting Researcher at Pacific Northwest National Laboratory</strong> and a <strong>Foreign Guest Researcher at the National Institute of Standards and Technology</strong>.
 
-I earned my <strong>B.Tech. in Metallurgical and Materials Engineering from the National Institute of Technology Tiruchirappalli</strong>. During my undergraduate studies, I spent two summers as a research intern at the <strong>Indian Institute of Science</strong> and the <strong>National University of Singapore</strong>.
+I earned my <strong>B.Tech in Metallurgical and Materials Engineering from the National Institute of Technology Tiruchirappalli</strong>. During my undergraduate studies, I spent two summers as a research intern at the <strong>Indian Institute of Science</strong> and the <strong>National University of Singapore</strong>.
 
 <!-- Institutional Logos Row -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin: 2em 0 1em;">
