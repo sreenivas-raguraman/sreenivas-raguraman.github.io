@@ -4,7 +4,7 @@ permalink: /mentorship/
 title: mentorship
 description: Students I’ve mentored through undergraduate, master’s, and high school research experiences.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 Over the course of my Ph.D., I’ve had the privilege of mentoring a wide range of exceptional students — from high schoolers to undergraduates and master’s students — many of whom have:
 
