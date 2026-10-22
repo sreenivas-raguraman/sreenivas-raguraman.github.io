@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sreenivas-raguraman.github.io/sitemap.xml
+Sitemap: https://sreenivasraguraman.com/sitemap.xml
